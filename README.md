@@ -83,7 +83,8 @@ It is built using **HTML, CSS, and JavaScript** and follows all functional and v
 - CSS3
 - JavaScript (Vanilla)
 - Google Maps Embed API
-
+- React
+- Tailwind
 ---
 
 ## ✅ Notes
